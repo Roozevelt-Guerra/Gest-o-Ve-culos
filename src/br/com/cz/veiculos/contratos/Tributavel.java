@@ -1,2 +1,7 @@
-package br.com.cz.veiculos.contratos;public interface Tributavel {
+package br.com.cz.veiculos.contratos;
+
+public interface Tributavel {
+    double calcularImposto();
+
+
 }

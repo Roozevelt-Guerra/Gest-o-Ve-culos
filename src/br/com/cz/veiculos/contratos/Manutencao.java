@@ -1,5 +1,5 @@
 package br.com.cz.veiculos.contratos;
 
-public interface Manuntencao {
-    double verificarManuntencao();
+public interface Manutencao {
+    boolean verificarManuntencao();
 }
